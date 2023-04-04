@@ -1,6 +1,8 @@
 # Prompt
+Positive: (best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures, 1girl, (young), face highlight, upper body, detailed face, tear mole, white skin, silver hair, ponytail, braid hair, looking at viewer, big eyes, silk robe, (hollow pattern), cape, earrings, small breasts, slim body, royal palace, luxury room, stained glass, professional lighting, photon mapping, radiosity, physically-based rendering, <lora:vivian:0.8>, <lora:fashionGirl_v36:0.4>,
+Negitave: EasyNegative, backlight, wood, wood texture, (worst quality, low quality:1.4), watermark, logo, bad anatomy, nude, topless, fat
 
-(best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures, 1girl, (young), face highlight, upper body, detailed face, tear mole, white skin, silver hair, ponytail, braid hair, looking at viewer, big eyes, silk robe, (hollow pattern), cape, earrings, small breasts, slim body, royal palace, luxury room, stained glass, professional lighting, photon mapping, radiosity, physically-based rendering, <lora:vivian:0.8>, <lora:fashionGirl_v36:0.4>,
 
-
-EasyNegative, backlight, wood, wood texture, (worst quality, low quality:1.4), watermark, logo, bad anatomy, nude, topless, fat
+# gaoqilan
+Positive: RAW photo, a close up portrait photo of a pretty girl, luxury black suit, long haircut, pale skin, slim body, library scene, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3, full focus background <lora:lonni:1>
+Negitave: (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, close up, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck
